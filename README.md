@@ -1,2 +1,8 @@
 # LSA-SHELL
-LSA questions given in LSA Lab, solutions submitted by Sandip and Shobhit.
+
+# DOS_LAB
+
+## Contributors
+
+- ___***Sandip Swain***___. [Github Profile](https://github.com/sandipswain) and - ___***Shobhit Preetam Sahoo***___. [Github Profile](https://github.com/ShobhitSahoo)
+
